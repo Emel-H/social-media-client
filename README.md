@@ -4,4 +4,4 @@ This is a fork of branch for the assignmnet where we learn about testing, workfl
 
 [![Automated Unit Testing](https://github.com/Emel-H/social-media-client/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Emel-H/social-media-client/actions/workflows/unit-test.yml)
 
-[![Automated Unit Testing](https://github.com/Emel-H/social-media-client/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Emel-H/social-media-client/actions/workflows/unit-test.yml)
+[![Automated E2E Testing](https://github.com/Emel-H/social-media-client/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/Emel-H/social-media-client/actions/workflows/e2e-test.yml)
