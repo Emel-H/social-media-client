@@ -1,6 +1,6 @@
 describe('Logout from accessed profile using logout button', () => {
   it('logout', () => {
-    cy.visit('https://emel-h.github.io/social-media-client/')
+    cy.visit('/')
     cy.wait(500)
     cy.get('#registerForm').find('.modal-footer').find('button').focused().contains('Login').click()
     cy.get('#loginForm').find('#loginEmail').focused()
